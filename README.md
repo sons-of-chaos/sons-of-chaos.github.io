@@ -1,11 +1,19 @@
-```
-```
 
 # children of chaos
 
 an esports team
 
 * * *
+
+# git repo
+
+this is where we put all the actual webdev stuff.
+
+it's pretty light so not a big deal, but i like to hack on stuff so it'll
+probably get complex and weird eventually.
+
+this should also be the most up to date file on members.
+
 
 # manifest
 
@@ -23,8 +31,7 @@ an esports team
 *   p.sock ( captain obvious)
 *   r.gizabitada ( even bigger nerd than a.devoxel )
 *   p.lippy ( ufc fighter and sometimes cooks fish I think )
-
-im forgetting people and this will be published elsewhere~
+*   
 
 * * *
 
